@@ -1,0 +1,20 @@
+[
+    {
+        "id": 4,
+        "title": "Flowy",
+        "content": "Only 5 inches",
+        "price": 120000
+    },
+    {
+        "id": 5,
+        "title": "Baby shoes",
+        "content": "for less than 6",
+        "price": 2900000
+    },
+    {
+        "id": 6,
+        "title": "Red Herring",
+        "content": "Born in Korea",
+        "price": 33000
+    }
+]
